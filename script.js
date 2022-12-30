@@ -8,5 +8,3 @@ fetch('https://placeimg.com/640/480/any')
             document.body.appendChild(link);
             link.click();
           });
-
-console.log('Hello, world!')          
